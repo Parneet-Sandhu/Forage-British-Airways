@@ -1,6 +1,8 @@
 # Forage-British-Airways
 ## **British Airways Data Science Job Simulation on Forage**
 
+**Internship Certificate:** <a href=https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_4NCA9oMHW6MT3bdmo_1723902684932_completion_certificate.pdf target="_blank">Link</a>
+
 * Completed a simulation focussing on how data science is a critical component
    of British Airways success
  * Scraped and analysed customer review data to uncover findings
