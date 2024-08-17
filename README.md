@@ -1,11 +1,12 @@
 # Forage-British-Airways
-# **British Airways Data Science Job Simulation on Forage**
+## **British Airways Data Science Job Simulation on Forage**
 
 * Completed a simulation focussing on how data science is a critical component
    of British Airways success
  * Scraped and analysed customer review data to uncover findings
  * Built a predictive model to understand factors that influence buying
    behaviour
+   
 # *Task 1: Web scraping to gain company insights*
 * **Data Collection:** Utilize web scraping to extract unstructured customer reviews from the Airline Quality website for British Airways.
 * **Sentiment Analysis:** Apply sentiment analysis to categorize reviews as positive or negative.
